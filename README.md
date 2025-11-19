@@ -1,0 +1,2 @@
+# politik
+web biasa
