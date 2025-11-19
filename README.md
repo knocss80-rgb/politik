@@ -1,13 +1,3 @@
-<!DOCTYPE html>         object-fit: cover;
-            border-radius: 50%;
-            display: block;
-            margin: 0 auto 20px;
-            border: 4px solid #ff8ebe;
-            box-shadow: 0 0 10px rgba(255, 120, 160, 0.4);
-        }
-
-        .info {
-    
 <html lang="id">
 <head>
     <meta charset="UTF-8">
